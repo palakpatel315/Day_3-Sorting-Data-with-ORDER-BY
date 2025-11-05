@@ -29,10 +29,10 @@ SELECT week, service, patients_refused, patients_request
  FROM services_weekly
  ORDER BY patients_refused DESC
  ```
----
  ## 📸 **SQL Queries**
 
-![Check_SQL Query File]()
+![Check_SQL Query File](https://github.com/palakpatel315/Day_3-Sorting-Data-with-ORDER-BY/tree/main/Day_3_SQL_Queries)
+
 ---
 Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) for starting this challenge and [DPDzero](https://www.linkedin.com/company/dpdzero/) the title sponsor of this challenge
 
